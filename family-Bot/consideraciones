@@ -1,0 +1,12 @@
+base de datos llamada data
+
+base de datos llamada data
+tabla llamada temperature	create table temperature (id int, value int)
+
+subida.php
+
+lectura.php
+
+
+$_POST['id']
+$_POST['value']
